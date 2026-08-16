@@ -347,7 +347,7 @@ El enlace al prototipo web estará disponible una vez finalizada su implementaci
 
 ## Autora
 
-**Elizabeth Guzmán**
+**Mery Elizabeth Guzmán Ontaneda**
 
 Proyecto desarrollado para la asignatura **Ingeniería y Pensamiento Humano**.
 
